@@ -28,4 +28,9 @@ This LV-Scripting code:
 
 Generates this VI:
 
-![LV-Scripting Output](/images/example-output.png?raw=true) 
+![LV-Scripting Output](/images/example-output.png?raw=true)
+
+Requirements
+------------
+
+Requires LabVIEW 2015 or later
