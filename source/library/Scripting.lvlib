@@ -86,6 +86,7 @@
 	<Item Name="Data Type" Type="Folder">
 		<Item Name="Get Cluster Element Names.vi" Type="VI" URL="../Get Cluster Element Names.vi"/>
 		<Item Name="Get Cluster Element Type.vi" Type="VI" URL="../Get Cluster Element Type.vi"/>
+		<Item Name="Get LV Class Path by Name.vi" Type="VI" URL="../Get LV Class Path by Name.vi"/>
 		<Item Name="Get Tagged Union Info.vi" Type="VI" URL="../Get Tagged Union Info.vi"/>
 		<Item Name="Is Tagged Union.vi" Type="VI" URL="../Is Tagged Union.vi"/>
 		<Item Name="Set Name.vi" Type="VI" URL="../Set Name.vi"/>
