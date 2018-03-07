@@ -154,6 +154,7 @@
 	<Item Name="Variant" Type="Folder">
 		<Item Name="Create To Variant.vi" Type="VI" URL="../Create To Variant.vi"/>
 		<Item Name="Create Variant to Data.vi" Type="VI" URL="../Create Variant to Data.vi"/>
+		<Item Name="Create Variant to Flattened String.vi" Type="VI" URL="../Create Variant to Flattened String.vi"/>
 	</Item>
 	<Item Name="Conditionally Connect Wire.vi" Type="VI" URL="../Conditionally Connect Wire.vi"/>
 	<Item Name="Create Constant.vi" Type="VI" URL="../Create Constant.vi"/>

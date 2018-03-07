@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2016-09-02 15:51:35" Modified_Date="2017-07-18 10:22:49" Creator="David Taylor" Comments="" ID="415c79e3680355efe5bdc7bec483416c">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2016-09-02 15:51:35" Modified_Date="2018-02-23 13:22:52" Creator="David Taylor" Comments="" ID="0901489160db13b5e1da9ae5b2bf96f3">
   <Library_General_Settings>
     <Package_File_Name>LV_Scripting</Package_File_Name>
-    <Library_Version>0.10.0.2</Library_Version>
+    <Library_Version>0.11.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\source</Library_Source_Folder>
     <Library_Output_Folder>..\builds</Library_Output_Folder>
@@ -431,7 +431,7 @@
         <Path>..\source\Variant</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>81F88D206090F26D6EECDEB2DA75C7CD</GUID>
+      <GUID>F5A758F61C863759E7BEF8CEBE79037E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -522,7 +522,7 @@
         <Path>..\source\library\Create Build Array.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F6DB9F5D56589EA3E7B8A570D10F14E5</GUID>
+      <GUID>94B49B7CDFC1E16E4EEEE5755D44CA40</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -627,7 +627,7 @@
         <Path>..\Sequence</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CC8110F6C8F018AE2B11A216DEBE5593</GUID>
+      <GUID>AE260F7AE01EEE34EBE70B1B9C5C46E9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -718,7 +718,7 @@
         <Path>..\source\library\Exit Multi Frame Structure.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DDDB22FFFA4ABE28DBC14D4EF302A925</GUID>
+      <GUID>8FC1163D964E869D8DD8611574499646</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -823,7 +823,7 @@
         <Path>..\source\library\Exit Event Structure.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E00291C181669E9B309262B32EE99EA4</GUID>
+      <GUID>3766FB00EDCF443CD2E5BDFD3FC2A95A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -858,7 +858,7 @@
         <Path>..\source\library\Create Add.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>272305C1C2835200B9021DC349514ED0</GUID>
+      <GUID>1302AAB61C6D62AB49238819919B3D2F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -921,7 +921,7 @@
         <Path>..\Queue</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0057D17E7DCC5276731DC7FB60B1B12C</GUID>
+      <GUID>66E0D51038A710839B2E360067934617</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1012,7 +1012,7 @@
         <Path>..\source\library\Create Unregister for Events.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0455554DB4E4C9F2B5331B52E639F7C9</GUID>
+      <GUID>B20D1FA3F15DDE4A5C30AF0B9FD77EC3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1061,7 +1061,7 @@
         <Path>..\source\library\Create New DVR.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>225876BAB9CFDEB0C06B5E3079A0E6F7</GUID>
+      <GUID>8393FAF1F29B3CA6DBB890ADB5C8B32A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1096,7 +1096,7 @@
         <Path>..\source\library\Create Equal.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>48E70B97ADA9B2AEFF85004C462537AA</GUID>
+      <GUID>48B1447007E07E7C3386E2EC1A079D94</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1145,7 +1145,7 @@
         <Path>..\source\library\Exit For Loop.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>42B0964A2741DAFA767D88C2418EFB3B</GUID>
+      <GUID>680AE286625A0EACE2A9C3C2BFA3D1B6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1250,7 +1250,7 @@
         <Path>..\source\library\Exit In Place Element DVR.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3C078EE9414074CC1244548F9881B761</GUID>
+      <GUID>8A4E4715C82151EA75DFA1E8493A37E0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1383,7 +1383,7 @@
         <Path>..\source\library\Create Close Reference.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>215411781083F73DF99D56493CDE77BB</GUID>
+      <GUID>D3949B7237D7747811905DF870140091</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1432,7 +1432,7 @@
         <Path>..\source\library\Exit While Loop.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DAD998CC53F5F63A438C263E8A4F07A9</GUID>
+      <GUID>E290C9F52E7CF22994D3996A94654090</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1495,7 +1495,7 @@
         <Path>..\source\library\Create Typedef Constant.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>19946AC94936E7813F4F2F603CE6C090</GUID>
+      <GUID>8D1913ACC5E11AAA9FDCE2623CC609AE</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1572,7 +1572,7 @@
         <Path>..\source\library\Create Release Queue.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7AC88CE7EF490B532FF8B24BFDD4CBE2</GUID>
+      <GUID>F54A4F9EF5E7401420F1450DC67B6FA4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1663,7 +1663,7 @@
         <Path>..\source\library\Create Merge Errors.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A030A15CC3EB99CBE01F8E395ABF1B69</GUID>
+      <GUID>613DA2246D29BD4AD91AEE6FADB3E22B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1698,7 +1698,7 @@
         <Path>..\source\library\Create Sequence.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D6E942E3FCE1273B7DD5899AD59DA577</GUID>
+      <GUID>88EA54CA925E60EA6FCAD8C5FDF867D5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1747,7 +1747,7 @@
         <Path>..\source\library\Create And Array Elements.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0BA0D0773545A82C82393152A93103A2</GUID>
+      <GUID>8DA23B59151033321AE25D48F79A214C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1796,7 +1796,7 @@
         <Path>..\source\library\Create Unflatten from String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1A40FBADF9CE2BAA52F49B54FCB4EC81</GUID>
+      <GUID>5FC89555C2F73C1D5BB2EE3F65C271E4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1943,7 +1943,7 @@
         <Path>..\source\library\Get LV Class Path by Name.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7D60DBC55F940171246B3F0068DD85FE</GUID>
+      <GUID>F0D3F3B45AFC017ED15553B8FBA545C5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1992,7 +1992,21 @@
         <Path>..\source\library\Create To Variant.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>220D0ED76E2B0F8A81D7F58AD2164D69</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Create Variant to Flattened String.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>3</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\source\library\Create Variant to Flattened String.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>65477D5E4D8B44F2C56E8CCFCE4F97A0</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
