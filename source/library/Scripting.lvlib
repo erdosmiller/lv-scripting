@@ -100,6 +100,7 @@
 	</Item>
 	<Item Name="String" Type="Folder">
 		<Item Name="Create Flatten to String.vi" Type="VI" URL="../Create Flatten to String.vi"/>
+		<Item Name="Create String Subset.vi" Type="VI" URL="../Create String Subset.vi"/>
 		<Item Name="Create Unflatten from String.vi" Type="VI" URL="../Create Unflatten from String.vi"/>
 	</Item>
 	<Item Name="Structures" Type="Folder">
